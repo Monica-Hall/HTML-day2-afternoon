@@ -243,7 +243,7 @@ main {
 .mid-right {
     height: 15%; 
     width: 90%; 
-    background-image: url(../HTML-CSS-day2-afternoonProject/HTML-day2-afternoon/image/pic.jpeg);
+    background-image: url(./HTML-day2-afternoon/image/contributions.jpeg);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: right;
